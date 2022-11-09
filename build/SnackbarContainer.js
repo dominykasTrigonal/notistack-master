@@ -18,7 +18,7 @@ var _classnames = require('classnames');
 
 var _classnames2 = _interopRequireDefault(_classnames);
 
-var _styles = require('@mui/styles');
+var _styles = require('@emotion/styled');
 
 var _constants = require('./utils/constants');
 

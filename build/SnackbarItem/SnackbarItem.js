@@ -20,7 +20,7 @@ var _propTypes = require('prop-types');
 
 var _propTypes2 = _interopRequireDefault(_propTypes);
 
-var _styles = require('@mui/styles');
+var _styles = require('@emotion/styled');
 
 var _Snackbar = require('@mui/material/Snackbar');
 
