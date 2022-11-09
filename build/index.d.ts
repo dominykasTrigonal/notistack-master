@@ -16,7 +16,6 @@ export interface OptionsObject extends Omit<SnackbarProps, 'open' | 'message' | 
     variant?: VariantType;
     persist?: boolean;
     preventDuplicate?: boolean;
-    children?: SnackbarContent; // To be deprecated
     content?: SnackbarContent;
     action?: SnackbarAction;
 }
